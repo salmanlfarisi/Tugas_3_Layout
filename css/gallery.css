@@ -1,0 +1,11 @@
+body {
+    background: #ffccbc;
+    text-align: center;
+    padding: 20px;
+}
+
+marquee img {
+    width: 150px;
+    margin: 10px;
+    border-radius: 10px;
+}

@@ -1,0 +1,13 @@
+body {
+    background: #2a9d8f;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+p {
+    font-size: 14px;
+    margin-top: 5px;
+}
